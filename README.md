@@ -10,13 +10,9 @@
 
 ## To Run
 - You need to setup your environment variables which are:
-ASSISTANT_ID=
 OPENAI_API_KEY=
-ROWENA_IDENT=
-API_URL=
 
-- You need to modify the /mensajes/menu.txt That txt file is the message that will be sent at first when somenone sends you a message
-- In the directory 'mensajes' you can create instruction to the chatgpt bot to read them and answer according to the information in that file. This repository sets the example with the products file as a .md
+
 
 ```
 npm install
