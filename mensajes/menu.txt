@@ -1,0 +1,8 @@
+Bienvenido a Rowena hybrid! Elige una opción:
+
+Opcion 1 - Que hacemos en Rowena
+Opcion 2 - Conoce nuestros 3 Bots
+Opcion 3 - Soporte
+Opcion 4 - Preguntas
+
+Opcion 0 - Salir

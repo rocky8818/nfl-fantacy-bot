@@ -1,0 +1,11 @@
+# Ignorar toda la carpeta bot_sessions
+bot_sessions/
+
+# Ignorar toda la carpeta node_modules
+node_modules/
+
+# Ignorar el archivo .env
+.env
+
+# Ignorar todos los archivos que terminan en .log
+*.log
